@@ -1,0 +1,15 @@
+
+## NLP ##
+nltk
+spacy
+gensim
+textblob
+wordfreq
+
+## machine learning ##
+#sklearn==0.21.3 #Random forest is broken on version 0.22
+
+## tools ##
+nameko
+pytest==3.5
+pytest-cov==2.5.1

@@ -1,0 +1,4 @@
+[
+  "tests/test_nlp.py::test_annotation",
+  "tests/test_nlp.py::test_lemmatization"
+]
