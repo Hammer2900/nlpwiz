@@ -13,9 +13,15 @@ Package requirements are handled using pip. To install them do
 
 ```
 pip install -r requirements.txt
+
+#download spacy model
 python -m spacy download en
 
-```..
+#download nltk wordnet
+python -c "import nltk; nltk.download('wordnet')"
+
+
+```
 
 ## Usage
 
