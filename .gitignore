@@ -1,7 +1,7 @@
 .DS_Store
 *.py[cod]
 .python-version
-
+*__pycache__*
 # C extensions
 *.so
 
