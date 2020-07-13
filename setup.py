@@ -14,5 +14,5 @@ setuptools.setup(name='nlpwiz',
                  license='MIT License',
                  zip_safe=False,
                  keywords='boilerplate package',
-                 classifiers=['Packages', 'nlpwiz']
+                 classifiers=['Packages', 'nlpwiz'],
                  packages=['nlpwiz'])
